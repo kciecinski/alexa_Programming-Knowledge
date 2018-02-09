@@ -1,0 +1,3 @@
+welcome: Hi, wanna some programming knowledge?
+
+tweet: From {{author}}. {{text}}
